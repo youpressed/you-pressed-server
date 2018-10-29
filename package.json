@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "child-process-promise": "^2.2.1",
+    "commander": "^2.19.0",
+    "fs-promise": "^2.0.3",
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2"
+  },
+  "scripts": {
+    "jc": "./jc-cli.js"
+  }
+}
